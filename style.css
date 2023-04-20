@@ -17,7 +17,6 @@
 
 body {
     background-color: var(--Light-gray);
-    padding: 15px;
     display: grid;
     min-height: 100vh;
     place-items: center;
